@@ -1,19 +1,17 @@
-martin.com
+# martin.com
 
 Discord bot project owned and maintained by xaiiiverrrir.
 
-Owner
+# Owner
 
 Owner: xaiiiverrrir
 
 Discord: https://discord.gg/e7DRTyuH4F
 
-Security
+# Security
 
 Never share the Discord bot token, API keys, database credentials, or other private credentials.
 
-License
+# License
 
 This project is licensed under the MIT License.
-
-See the "LICENSE" file for the full license text.
